@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo de la calculadora -->
+  <rect width="32" height="32" rx="6" fill="#4A5568"/>
+  
+  <!-- Pantalla -->
+  <rect x="4" y="4" width="24" height="8" rx="2" fill="#E2E8F0"/>
+  
+  <!-- Botones -->
+  <circle cx="8" cy="16" r="2" fill="#48BB78"/>
+  <circle cx="16" cy="16" r="2" fill="#48BB78"/>
+  <circle cx="24" cy="16" r="2" fill="#48BB78"/>
+  
+  <circle cx="8" cy="22" r="2" fill="#48BB78"/>
+  <circle cx="16" cy="22" r="2" fill="#48BB78"/>
+  <circle cx="24" cy="22" r="2" fill="#F56565"/>
+  
+  <circle cx="8" cy="28" r="2" fill="#48BB78"/>
+  <circle cx="16" cy="28" r="2" fill="#48BB78"/>
+  <circle cx="24" cy="28" r="2" fill="#F56565"/>
+</svg> 
